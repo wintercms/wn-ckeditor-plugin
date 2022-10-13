@@ -1,5 +1,7 @@
 # CKEditor v4 for Winter CMS
 
+![ckeditor-4](https://user-images.githubusercontent.com/7253840/195719231-56666ccf-a53e-4775-adc8-1f9d7477be62.png)
+
 *Integrates the CKEditor v4 WYSIWYG HTML Editor into Winter CMS*
 
 This simple plugin adds the CKEditor FormWidget (`type: ckeditor`) to Winter CMS as an alternative to the built-in Froala-based `type: richeditor` WYSIWYG editor FormWidget.
