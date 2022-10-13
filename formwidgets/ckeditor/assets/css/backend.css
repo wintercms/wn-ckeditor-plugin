@@ -1,0 +1,33 @@
+.cke .cke_toolgroup a.cke_button:last-child:after,
+.cke .cke_toolgroup a.cke_button.cke_button_disabled:hover:last-child:after {
+    display: none;
+}
+
+.cke .cke_toolgroup {
+    border: 1px solid #e0e0e0;
+    float: left;
+    border-radius: 3px;
+    margin: 0 6px 5px 0;
+    padding: 0;
+}
+
+.cke a.cke_combo_button {
+    margin: 0 6px 5px 0;
+    border: 1px solid #e0e0e0;
+    -moz-border-radius: 3px;
+    -webkit-border-radius: 3px;
+    border-radius: 3px;
+    padding: 0;
+}
+
+.cke .cke_combo:after {
+    display: none;
+}
+
+.cke textarea.cke_source {
+    border-radius: 0;
+    background: #111;
+    color: #FFF;
+    padding: 1em;
+    min-height: 400px;
+}

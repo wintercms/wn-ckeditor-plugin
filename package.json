@@ -1,0 +1,23 @@
+{
+    "name": "@wintercms/wn-ckeditor-plugin",
+    "version": "1.0.0",
+    "description": "Provides the CKEditor WYSIWYG Editor in Winter CMS",
+    "private": true,
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/wintercms/wn-ckeditor-plugin.git"
+    },
+    "author": {
+        "name": "Winter CMS Maintainers",
+        "url": "https://wintercms.com",
+        "email": "hello@wintercms.com"
+    },
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/wintercms/wn-ckeditor-plugin/issues"
+    },
+    "homepage": "https://wintercms.com/",
+    "devDependencies": {
+        "ckeditor4": "^4.20.0"
+    }
+}

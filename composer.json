@@ -1,0 +1,20 @@
+{
+    "name": "winter/wn-ckeditor-plugin",
+    "description": "Provides the CKEditor WYSIWYG Editor in Winter CMS",
+    "type": "winter-plugin",
+    "homepage": "https://github.com/wintercms/wn-ckeditor-plugin",
+    "support": {
+        "issues": "https://github.com/wintercms/wn-ckeditor-plugin/issues",
+        "discord": "https://discord.gg/D5MFSPH6Ux",
+        "source": "https://github.com/wintercms/wn-ckeditor-plugin"
+    },
+    "keywords": ["ckeditor", "wysiwyg", "editor", "wintercms", "plugin"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Winter CMS Maintainers",
+            "homepage": "https://wintercms.com",
+            "role": "Maintainer"
+        }
+    ]
+}
