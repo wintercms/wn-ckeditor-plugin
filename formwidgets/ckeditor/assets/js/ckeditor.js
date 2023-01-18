@@ -60,7 +60,8 @@
                 toolbar: this.options.toolbar,
                 // skin: this.options.theme,
                 language: this.options.lang,
-                extraPlugins: 'image2,mediamanager,customparagraph,blockquote2,justify,footnotes,custompullquoteleft,custompullquotecenter,custompullquoteright,indentblock,button,menubutton,htmlbuttons',
+                //customparagraph,blockquote2,footnotes,custompullquoteleft,htmlbuttons
+                extraPlugins: 'image2,mediamanager,justify,indentblock,button,menubutton',
             },
             _self = this;
 

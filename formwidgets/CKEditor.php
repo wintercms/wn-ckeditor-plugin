@@ -60,8 +60,8 @@ class CKEditor extends FormWidgetBase
      */
     public function loadAssets()
     {
-        $this->addJs('https://cdn.ckeditor.com/4.20.0/standard-all/ckeditor.js');
-        $this->addJs('https://cdn.ckeditor.com/4.20.0/standard-all/adapters/jquery.js');
+        $this->addJs('/plugins/winter/ckeditor/assets/src/ckeditor.js');
+        $this->addJs('/plugins/winter/ckeditor/assets/src/adapters/jquery.js');
         $this->addJs('/plugins/winter/ckeditor/formwidgets/ckeditor/assets/js/ckeditor.js', 'Winter.CKEditor');
         $this->addCss('/plugins/winter/ckeditor/formwidgets/ckeditor/assets/css/backend.css', 'Winter.CKEditor');
     }
